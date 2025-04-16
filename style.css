@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Cherry+Bomb+One&family=Krona+One&family=Luckiest+Guy&family=Montserrat:wght@200&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poetsen+One&family=Pompiere&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container__conteudo {
+    background-color: #7a6a53;
+    width: 300px;
+    height: 550px;
+    border-radius: 25px;
+}
+
+.container__conteudo__sub {
+    background-color: #e0d3b8;
+    width: 270px;
+    height: 520px;
+    border-radius: 25px;
+    margin: 15px;
+}
+
+.container__conteudo__avatar {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 10px auto 10px auto;
+    padding: 15px;
+}
+
+h1 {
+    font-family: "Poetsen One", sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    -webkit-text-stroke: 0.7px black;
+    text-shadow: 0 0 1px rgb(255, 255, 255);
+    margin: 80px;
+    position: relative;
+    top: -80px;
+}
+
+p {
+    font-family: "Poetsen One", sans-serif;
+    color: #363027;
+    font-size: 12px;
+    -webkit-text-stroke: 0.0px rgb(255, 255, 255);
+    text-shadow: 0 0 0px rgb(255, 255, 255);
+    margin: 20px;
+    position: relative;
+    top: -140px;
+}
+
+
+.a {
+    margin-top: -35px;
+    margin-left: 42px;
+    display: flex;
+    background-color: #7a6a53;
+    border-radius: 30px;
+    padding: 5px 30px;
+    width: 130px;
+    height: 25px;
+    justify-content: center;
+    align-items: center; 
+}
+
+.a:hover {
+    background-color: #363027;
+}
+
+a {
+    font-family: "Poetsen One", sans-serif;
+    justify-content: center;
+    align-items: center; 
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 0 0 0px rgb(255, 255, 255);
+}
+
+.container__footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -60px;
+}
+
+.container__footer__imagem {
+    width: 110px;
+    align-items: flex-end;
+    margin: 20%;
+}
+
+.container__footer__paragrafo {
+    font-family: Cherry Bomb One;
+    color: white;
+    font-size: 25px;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 0 0 0px rgb(255, 255, 255);
+    text-align: center;
+    margin: 60px;
+}
+
+.container__links {
+    margin-top: -310px;
+    padding: 35px;
+    
+}
+
+
+.container_in {
+    margin-bottom: 10px;
+}
+
+.fiv-icon {
+    background-color: #7a6a53;
+    border-radius: 100%;
+    padding: 7px;
+    display: inline-table;
+}
+.fa-brands {
+    color: #e0d3b8;
+}
