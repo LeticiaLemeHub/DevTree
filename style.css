@@ -16,7 +16,7 @@ html, body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #000000e0;
+    background: radial-gradient(circle at center, #d6c1a6 0%, #6a5948 60%, #1e1e1e 100%);
 }
 
 .container__conteudo {
@@ -24,6 +24,9 @@ html, body {
     width: 300px;
     height: 550px;
     border-radius: 25px;
+    border: 2px solid #5e5140;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* sombra suave */
 }
 
 .container__conteudo__sub {
