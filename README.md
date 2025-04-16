@@ -1,6 +1,6 @@
 # 🌳 DevTree
 
-Uma central de links personalizada desenvolvida com **HTML**, **CSS** e **em breve JavaScript**. Ideal para reunir e compartilhar suas redes sociais, portfólio ou qualquer link importante.
+Uma central de links personalizada desenvolvida com **HTML**, **CSS** e (em breve) **JavaScript**. Ideal para reunir e compartilhar suas redes sociais, portfólio ou qualquer link importante.
 
 🔗 Acesse o projeto online: [dev-tree-rho.vercel.app](https://dev-tree-rho.vercel.app/)
 
