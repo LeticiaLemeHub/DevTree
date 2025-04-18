@@ -9,7 +9,7 @@ Uma central de links personalizada desenvolvida com **HTML**, **CSS** e (em brev
 ## ✨ Funcionalidades
 
 - Fácil de personalizar com seus links, nome e imagem de perfil
-- **(Em breve)** Alternância entre **modo claro** e **modo escuro** 🌞🌙  
+- Alternância entre **modo claro** e **modo escuro** 🌞🌙  
 
 ---
 
@@ -17,7 +17,7 @@ Uma central de links personalizada desenvolvida com **HTML**, **CSS** e (em brev
 
 - HTML  
 - CSS  
-- **(Em breve)** JavaScript  
+- JavaScript  
 
 ---
 
